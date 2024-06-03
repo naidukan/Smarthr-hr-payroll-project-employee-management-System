@@ -25,7 +25,7 @@
         <title>Users - HRMS admin template</title>
 		
 		<!-- Favicon -->
-        <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
+        <link relsmate="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
 		
 		<!-- Bootstrap CSS -->
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
